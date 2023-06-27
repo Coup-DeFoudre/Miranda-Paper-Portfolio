@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Miranda-Paper-Portfolio/static/css/main.5bfd3cff.css",
+    "main.js": "/Miranda-Paper-Portfolio/static/js/main.5e862fb3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Miranda-Paper-Portfolio/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Miranda-Paper-Portfolio/index.html",
+    "main.5bfd3cff.css.map": "/Miranda-Paper-Portfolio/static/css/main.5bfd3cff.css.map",
+    "main.5e862fb3.js.map": "/Miranda-Paper-Portfolio/static/js/main.5e862fb3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Miranda-Paper-Portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bfd3cff.css",
+    "static/js/main.5e862fb3.js"
+  ]
+}
